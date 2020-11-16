@@ -1,0 +1,13 @@
+@import"../standard.css";
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1rem;
+    width: 50%;
+}
+
+.form-group input {
+margin-top: 0,3rem;
+
+}
